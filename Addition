@@ -1,8 +1,8 @@
 class Addition{
 public static void main(String[]args){
-int a=4;
-int b=5;
-int sum=a+b;
+int p=4;
+int m=5;
+int sum=p+m;
 System.out.println("sum is:"+sum);
 }
 }
