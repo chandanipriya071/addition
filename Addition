@@ -1,7 +1,7 @@
 class Addition{
 public static void main(String[]args){
-int p=4;
-int m=5;
+int p = 4;
+int m = 5;
 int sum=p+m;
 System.out.println("Sum is:"+sum);
 }
