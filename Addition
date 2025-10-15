@@ -1,4 +1,4 @@
-class Addition b.      v.{
+class Addition b.    {
 public static void main(String[]args){
 int p = 4;
 int m = 5;
