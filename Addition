@@ -1,7 +1,4 @@
 
-
-gb 
-
 class Addition {
 public static void main(String[]args){
 int p = 4;
