@@ -1,9 +1,4 @@
 
-
-
-
-Portronics 65W Hall
-
 class Addition {
 public static void main(String[]args){
 int p = 4;
